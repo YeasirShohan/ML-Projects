@@ -1,2 +1,2 @@
 # ML-Projects
-Those are ML projects which is develop by my self.
+Those are ML projects which was developed by my self.
